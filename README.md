@@ -25,7 +25,7 @@ All set to create a new App!
 2.	`cd` into the app folder.
 3.	When using Ionic Framework in an Angular project, install the latest @ionic/angular package from npm. This comes with all of the Ionic Framework components and Angular specific services and features.
 - `npm install @ionic/angular@latest --save`
-3.	Copy the contents of `src/app/app.component.html` and `src/app/app.component.ts` from the repository and paste it in the respective files of your app which was created now.
+3.	Replace the `src` folder in your project folder with the `src` folder from this repo.
 
 Time to build!
 
